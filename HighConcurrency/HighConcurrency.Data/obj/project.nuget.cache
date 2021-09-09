@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BV3VQSbyWPLvepNaXHR0o5x0vp5vMFBS+Ivbp0rmP4HB2JGVSdyWCZLHVgmZOU1FjeS/UafMygSXu800tDblnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\MessageQueu\\concurrency\\HighConcurrency\\HighConcurrency.Data\\HighConcurrency.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

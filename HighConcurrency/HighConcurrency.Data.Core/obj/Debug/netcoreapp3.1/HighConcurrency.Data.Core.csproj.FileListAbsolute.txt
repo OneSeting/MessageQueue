@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Core\bin\Debug\netcoreapp3.1\HighConcurrency.Data.Core.deps.json
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Core\bin\Debug\netcoreapp3.1\HighConcurrency.Data.Core.dll
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Core\bin\Debug\netcoreapp3.1\HighConcurrency.Data.Core.pdb
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Core\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Core\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Core.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Core\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Core\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Core.dll
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Core\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Core.pdb
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Core\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Core.csprojAssemblyReference.cache

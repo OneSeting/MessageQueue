@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\concurrency\HighTransmit\HighTransmit\HighTransmit.Data.MessageQueue\bin\Debug\netcoreapp3.1\HighTransmit.Data.MessageQueue.deps.json
+C:\Users\Administrator\Desktop\concurrency\HighTransmit\HighTransmit\HighTransmit.Data.MessageQueue\bin\Debug\netcoreapp3.1\HighTransmit.Data.MessageQueue.dll
+C:\Users\Administrator\Desktop\concurrency\HighTransmit\HighTransmit\HighTransmit.Data.MessageQueue\bin\Debug\netcoreapp3.1\HighTransmit.Data.MessageQueue.pdb
+C:\Users\Administrator\Desktop\concurrency\HighTransmit\HighTransmit\HighTransmit.Data.MessageQueue\obj\Debug\netcoreapp3.1\HighTransmit.Data.MessageQueue.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\concurrency\HighTransmit\HighTransmit\HighTransmit.Data.MessageQueue\obj\Debug\netcoreapp3.1\HighTransmit.Data.MessageQueue.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\concurrency\HighTransmit\HighTransmit\HighTransmit.Data.MessageQueue\obj\Debug\netcoreapp3.1\HighTransmit.Data.MessageQueue.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\concurrency\HighTransmit\HighTransmit\HighTransmit.Data.MessageQueue\obj\Debug\netcoreapp3.1\HighTransmit.Data.MessageQueue.dll
+C:\Users\Administrator\Desktop\concurrency\HighTransmit\HighTransmit\HighTransmit.Data.MessageQueue\obj\Debug\netcoreapp3.1\HighTransmit.Data.MessageQueue.pdb

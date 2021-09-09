@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\bin\Debug\netcoreapp3.1\HighConcurrency.Data.Services.deps.json
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\bin\Debug\netcoreapp3.1\HighConcurrency.Data.Services.dll
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\bin\Debug\netcoreapp3.1\HighConcurrency.Data.Services.pdb
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\bin\Debug\netcoreapp3.1\HighConcurrency.Data.Core.dll
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\bin\Debug\netcoreapp3.1\HighConcurrency.Data.dll
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\bin\Debug\netcoreapp3.1\HighConcurrency.Data.Model.dll
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\bin\Debug\netcoreapp3.1\HighConcurrency.Data.Core.pdb
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\bin\Debug\netcoreapp3.1\HighConcurrency.Data.Model.pdb
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\bin\Debug\netcoreapp3.1\HighConcurrency.Data.pdb
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Services.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Services.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Services.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Services.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Services.csproj.CopyComplete
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Services.dll
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Services\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Services.pdb

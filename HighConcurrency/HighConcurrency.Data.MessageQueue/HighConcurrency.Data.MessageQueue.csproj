@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HighConcurrency.Data.Model\HighConcurrency.Data.Model.csproj" />
+    <ProjectReference Include="..\HighConcurrency.Data.Services\HighConcurrency.Data.Services.csproj" />
+    <ProjectReference Include="..\HighConcurrency.Data\HighConcurrency.Data.csproj" />
+  </ItemGroup>
+
+</Project>

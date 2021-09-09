@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Locking\bin\Debug\netcoreapp3.1\HighConcurrency.Data.Locking.deps.json
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Locking\bin\Debug\netcoreapp3.1\HighConcurrency.Data.Locking.dll
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Locking\bin\Debug\netcoreapp3.1\HighConcurrency.Data.Locking.pdb
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Locking\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Locking.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Locking\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Locking.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Locking\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Locking.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Locking\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Locking.dll
+C:\Users\Administrator\Desktop\concurrency\HighConcurrency\HighConcurrency.Data.Locking\obj\Debug\netcoreapp3.1\HighConcurrency.Data.Locking.pdb
