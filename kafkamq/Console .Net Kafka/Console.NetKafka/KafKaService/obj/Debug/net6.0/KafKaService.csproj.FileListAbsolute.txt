@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Console .Net Kafka\Console.NetKafka\KafKaService\bin\Debug\net6.0\KafKaService.deps.json
+C:\Users\Administrator\Desktop\Console .Net Kafka\Console.NetKafka\KafKaService\bin\Debug\net6.0\KafKaService.dll
+C:\Users\Administrator\Desktop\Console .Net Kafka\Console.NetKafka\KafKaService\bin\Debug\net6.0\ref\KafKaService.dll
+C:\Users\Administrator\Desktop\Console .Net Kafka\Console.NetKafka\KafKaService\bin\Debug\net6.0\KafKaService.pdb
+C:\Users\Administrator\Desktop\Console .Net Kafka\Console.NetKafka\KafKaService\obj\Debug\net6.0\KafKaService.GlobalUsings.g.cs
+C:\Users\Administrator\Desktop\Console .Net Kafka\Console.NetKafka\KafKaService\obj\Debug\net6.0\KafKaService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Console .Net Kafka\Console.NetKafka\KafKaService\obj\Debug\net6.0\KafKaService.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Console .Net Kafka\Console.NetKafka\KafKaService\obj\Debug\net6.0\KafKaService.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Console .Net Kafka\Console.NetKafka\KafKaService\obj\Debug\net6.0\KafKaService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Console .Net Kafka\Console.NetKafka\KafKaService\obj\Debug\net6.0\KafKaService.dll
+C:\Users\Administrator\Desktop\Console .Net Kafka\Console.NetKafka\KafKaService\obj\Debug\net6.0\ref\KafKaService.dll
+C:\Users\Administrator\Desktop\Console .Net Kafka\Console.NetKafka\KafKaService\obj\Debug\net6.0\KafKaService.pdb
